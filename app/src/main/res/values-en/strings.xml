@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">WheaterApp</string>
+
+
+    <string name="percentage">%</string>
+    <string name="kilometers">Km</string>
+    <string name="graus_celsius">°C</string>
+
+
+    <!-- Activity Main -->
+    <string name="hint_edt_main">Search a city</string>
+    <string name="city_name_main">Bady Bassitt</string>
+    <string name="value_temp_main">30°C</string>
+    <string name="tittle_min_main">Min:</string>
+    <string name="tittle_max_main">Max:</string>
+    <string name="value_max_main">33° C</string>
+    <string name="value_min_main">26° C</string>
+
+    <!-- Activity Details -->
+    <string name="name_city_details">Bady Bassitt</string>
+    <string name="description_details">Pouco nublado</string>
+    <string name="temp_details">27°C</string>
+    <string name="feels_like_tittle">Feels like</string>
+    <string name="feels_like_value">28°C</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="value_humidity">61%</string>
+    <string name="pressure_title">PRESSURE (hPa)</string>
+    <string name="value_pressure">0 mm in the last 3 hours</string>
+    <string name="temp_min_tittle">Minimum temperature</string>
+    <string name="temp_min_value">21°C</string>
+    <string name="temp_max_tittle">Maximum temperature</string>
+    <string name="temp_max_value">33°C</string>
+    <string name="visibility_title">ViSIBILITY</string>
+    <string name="visibility_value">21°C</string>
+    <string name="title_activity_weather_details">WeatherDetails</string>
+    <string name="clear">Clear</string>
+    <string name="little_cloudy">Clear</string>
+    <string name="partly_cloudy">Partly cloudy</string>
+    <string name="most_cloudy">Most cloudy</string>
+    <string name="toast_sucesso">Success!</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">App tempo</string>
+
+
+    <string name="percentage">%</string>
+    <string name="kilometers">Km</string>
+    <string name="graus_celsius">°C</string>
+
+    <!-- Activity Main -->
+    <string name="hint_edt_main">Pesquise uma cidade</string>
+    <string name="city_name_main">Bady Bassitt</string>
+    <string name="value_temp_main">30°C</string>
+    <string name="tittle_min_main">Min:</string>
+    <string name="tittle_max_main">Máx:</string>
+    <string name="value_max_main">33° C</string>
+    <string name="value_min_main">26° C</string>
+
+    <!-- Activity Details -->
+    <string name="name_city_details">Bady Bassitt</string>
+    <string name="description_details">Pouco nublado</string>
+    <string name="temp_details">27°C</string>
+    <string name="feels_like_tittle">SENSAÇÃO</string>
+    <string name="feels_like_value">28°C</string>
+    <string name="humidity_title">UMIDADE</string>
+    <string name="value_humidity">61%</string>
+    <string name="pressure_title">PRESSURE (hPa)</string>
+    <string name="value_pressure">0 mm nas últimas 3 horas</string>
+    <string name="temp_min_tittle">Temperatura mínima</string>
+    <string name="temp_min_value">21°C</string>
+    <string name="temp_max_tittle">Temperatura máxima</string>
+    <string name="temp_max_value">33°C</string>
+    <string name="visibility_title">ViSIBILITY</string>
+    <string name="visibility_value">21°C</string>
+
+    <string name="title_activity_weather_details">WeatherDetails</string>
+    <string name="clear">Céu Limpo</string>
+    <string name="little_cloudy" translatable="false">Pouco Nublado</string>
+    <string name="partly_cloudy">Parcialmente nublado</string>
+    <string name="most_cloudy">Muito nublado</string>
+    <string name="toast_sucesso">Sucesso!</string>
+
+
+</resources>
